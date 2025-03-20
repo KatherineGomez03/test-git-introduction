@@ -11,3 +11,14 @@ git status: muestra el estado del repositorio
 git branch: muestra las ramas
 git swicht: cambia de rama
 git swicht -c: cambia de rama y crea un nuevo commit
+git merge: combina dos ramas
+git fetch origin: obtiene los cambios de la rama remota
+git push origin: sube los cambios a la rama remota
+git pull origin: obtiene y combina los cambios de la rama remota
+git remote add: agrega una rama remota
+git clone: clona un repositorio
+git rm: elimina un archivo
+git mv: renombra un archivo
+git status: muestra el estado del repositorio
+
+el archivo .gitignore es para ignorar archivos que no se quieren subir al repositorio, es preventivo 
