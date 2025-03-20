@@ -1,2 +1,13 @@
 HOLA MUNDO! :D
 Hola otra vez!
+
+Es una practica de git
+los comandos basico son:
+git init: inicia un repositorio
+git add: agrega archivos
+git commit: crea un commit
+git log: muestra los commits
+git status: muestra el estado del repositorio
+git branch: muestra las ramas
+git swicht: cambia de rama
+git swicht -c: cambia de rama y crea un nuevo commit
